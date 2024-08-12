@@ -1,6 +1,7 @@
 # Portofolio2
 
 [highest-grossing-mobile-games](https://www.kaggle.com/datasets/mattop/highest-grossing-mobile-games) is available on kaggle.
+
 This dataset includes 104 mobile games ranked by their revenue. There are 5 columns:
 |No.|Column Name|Data Type|Description|
 |-|-|-|-|
@@ -10,7 +11,8 @@ This dataset includes 104 mobile games ranked by their revenue. There are 5 colu
 |4.|Publisher(s)|object|Publisher of the game|
 |5.|Genre(s)|object|Genre of the game|
 
-highest-grossing-mobile-games-new
+"highest-grossing-mobile-games-new" is a new dataset created by myself to support further analysis.
+
 This dataset includes 104 mobile games ranked by their revenue. There are 9 columns:
 |No.|Column Name|Data Type|Description|
 |-|-|-|-|
